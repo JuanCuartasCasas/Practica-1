@@ -6,3 +6,6 @@ print(f"Prueba: {x}",x[1]+2)
 print(type(x))
 str(x)
 print(type(x))
+respuesta = input(str("Dime tu nombre: "))
+print(f"!Holaaaa!{respuesta},un placer conocerte")
+#Envie esto como una actualizacion de la version antes enviada
