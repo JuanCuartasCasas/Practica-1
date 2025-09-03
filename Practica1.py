@@ -1,3 +1,4 @@
+print("Hola mundo,esto es una prueba")
 #Autor:Juan Diego Cuartas Casas
 #Razòn:Inicializacion en github y retroalimentacion conceptos en clase 
 print("Hola mundo,esto es una prueba")
